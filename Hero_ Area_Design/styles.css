@@ -1,0 +1,67 @@
+*{
+    margin-top: 15px;
+    margin-left: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins,  sans-serif, fontawesome;
+    box-sizing:border-box;
+
+}
+body{
+    background-color: #F8F6F7;
+    background-image:url(img/hero.png);
+  height: 300px; /* You must set a specified height */
+  background-position: 48%; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: 450px; /* Resize the background image to cover the entire container */
+
+}
+.hero-text h4 {
+    color: #fff;
+    margin-bottom: 10px;
+    font-weight: 400;
+    display: inline-block;
+    background: #2E2751;
+    padding: 8px 20px;
+    font-size: 16px;
+    font-family: poppins,  sans-serif, fontawesome;
+
+}
+.container{
+    width: 2000px;
+    margin:0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.hero-moto-font{
+    color: #2E2751;
+    font-family: poppins,  sans-serif, fontawesome;
+}
+a{
+    text-decoration: none;
+}
+p{
+    font-family: poppins,  sans-serif, fontawesome;
+    font-size: x-small;
+    opacity: .5;
+
+}
+#rectangle{
+    width:40px;
+    height:6px;
+    background:#f3a712;
+}
+a.green{
+        text-align: center;
+        padding: 10px;
+        background: #1A9F68;
+        color: #fff;
+        display: inline-block;
+        
+}
+a.yello
+{
+    background: #f3a712;
+    color: #fff;
+    padding: 10px ;
+}
